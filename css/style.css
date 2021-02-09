@@ -1,0 +1,32 @@
+body{
+    padding: 50px;
+}
+header{
+    padding-bottom: 20px;
+}
+.logo{
+    width: 100px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 30px;
+}
+nav{
+    display: inline-block;
+}
+li{
+    display: inline;
+}
+li .list-a{
+    font-size: 20px;
+    margin-right: 20px;
+}
+.f-pgoto{
+    display: inline-block;
+    vertical-align: top;
+    width: 400px;
+}
+p{
+    font-size: 30px;
+    width: 800px;
+    display: inline-block;
+}
